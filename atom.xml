@@ -6,7 +6,7 @@
   <link href="https://yunfanxu.github.io/atom.xml" rel="self"/>
   
   <link href="https://yunfanxu.github.io/"/>
-  <updated>2021-03-03T06:31:51.504Z</updated>
+  <updated>2021-03-03T07:42:12.500Z</updated>
   <id>https://yunfanxu.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo hot rendering</title>
+    <link href="https://yunfanxu.github.io/2021/03/03/re-render/"/>
+    <id>https://yunfanxu.github.io/2021/03/03/re-render/</id>
+    <published>2021-03-03T07:34:41.000Z</published>
+    <updated>2021-03-03T07:42:12.500Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Compare to the web development, hexo also has the re-render function.&lt;br&gt;You can run the command in a new terminal.&lt;/p&gt;
+&lt;figure</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://yunfanxu.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>WELCOME</title>

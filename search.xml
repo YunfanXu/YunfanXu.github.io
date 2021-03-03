@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo hot rendering</title>
+    <url>/2021/03/03/re-render/</url>
+    <content><![CDATA[<p>Compare to the web development, hexo also has the re-render function.<br>You can run the command in a new terminal.</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$hexo generate --watch</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>WELCOME</title>
     <url>/2021/03/02/First-Post/</url>
     <content><![CDATA[<h2 id="Welcome-to-my-site"><a href="#Welcome-to-my-site" class="headerlink" title="Welcome to my site"></a>Welcome to my site</h2><p>This is my first post, and I am going to post some personal life and reactions.</p>
